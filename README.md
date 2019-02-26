@@ -26,7 +26,7 @@ Implement unsupervised learning techniques on product spending data collected fo
     - GMM created custers
       <img src='assets/prediction.png'>
     - Actual distributions
-      <img src='assets/actual_distributions.png'>
+      <img src='assets/actual_distribution.png'>
   - Some points that cross over in the central region could be due to the different types/scales of operation.
   
 ## Getting Started
