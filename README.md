@@ -22,10 +22,12 @@ Implement unsupervised learning techniques on product spending data collected fo
 - Compare prediction to actual distributions
 
 ### Project Results
-  - 
-  
-  
-  
+  - The actual channel data appears align well with GMM predicted clusters.
+    - GMM created custers
+      <img src='assets/prediction.png'>
+    - Actual distributions
+      <img src='assets/actual_distributions.png'>
+  - Some points that cross over in the central region could be due to the different types/scales of operation.
   
 ## Getting Started
 ### Prerequisites
