@@ -9,7 +9,7 @@ Implement unsupervised learning techniques on product spending data collected fo
 - Explore the data
   - Analyze feature relevance
   - Visualize feature distributions
-- Preprocesse the data
+- Preprocess the data
   - Implement feature scaling
     - Natural logarithm
     - Box-Cox transformation
