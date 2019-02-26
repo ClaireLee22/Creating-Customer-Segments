@@ -22,22 +22,11 @@ Implement unsupervised learning techniques on product spending data collected fo
 - Compare prediction to actual distributions
 
 ### Project Results
-  - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
-  - Improve model performance after tuning model using grid search
+  - 
   
-    | Metric | Unoptimized Model | Optimized Model |
-    | :---:   | :-: | :-: |
-    | Accuracy | 0.8630 | 0.8705 |
-    | F-score | 0.7395 | 0.7513 |
-    
-  - Both accuracy score and f-score are slightly declined on the reduced data(top 5 important features) than the scores on the full data.     However, it decreases substantial training time. 
   
-    | Metric | Final Model trained on full data |  Final Model trained on reduced data  |
-    | :---:   | :-: | :-: |
-    | Accuracy | 0.8705 | 0.8590 |
-    | F-score | 0.7513 | 0.7252 |
-    | Train time | 5.7013 | 54.9721|
-
+  
+  
 ## Getting Started
 ### Prerequisites
 This project requires **Python 2.7** and the following Python libraries installed:
